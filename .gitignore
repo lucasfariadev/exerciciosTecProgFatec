@@ -1,0 +1,11 @@
+# Ignorar a pasta .metadata do Eclipse
+.metadata/
+
+# Ignorar todos os arquivos .project do Eclipse
+.project
+
+# Ignorar todos os arquivos .classpath do Eclipse
+.classpath
+
+# Ignorar todos os arquivos .settings do Eclipse
+.settings/
