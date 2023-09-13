@@ -14,7 +14,9 @@ Neste exercício, desenvolvemos um programa Java que permite ao usuário inserir
 
 Neste exercício, criamos uma classe chamada `Padaria` em Java. A classe possui atributos como quantidade de pães, quantidade de sonhos e quantidade de leite, bem como métodos `get` e `set` para esses atributos. Também implementamos um método para verificar se a quantidade de pães é maior que a quantidade de sonhos e exibir uma mensagem correspondente.
 
-Cada diretório neste repositório contém o código-fonte e o programa principal (quando aplicável) relacionados a cada exercício.
+## Exercício 4: Classe Funcionário (Java)
+
+Neste exercício, adicionamos a classe `Funcionario` em Java. A classe possui atributos como nome, salário, departamento e cargo. Foram implementados construtores, métodos `get` e `set`, bem como um método para aumentar o salário do funcionário.
 
 ### Como Usar
 
@@ -24,13 +26,9 @@ Cada diretório neste repositório contém o código-fonte e o programa principa
 git clone https://github.com/lucasfariadev/exerciciosTecProgFatec.git
 ```
 
-
 2. Navegue até o diretório do exercício desejado.
 
 3. Compile e execute o código conforme necessário.
 
 ### Autor
-
 Lucas Faria
-
-
